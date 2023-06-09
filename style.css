@@ -1,0 +1,32 @@
+body {
+    background-color: aqua;
+}
+
+#titulo {
+    text-align: center;
+    font-size: 24pt;
+    font-family: Normal Arial, Helvetica, sans-serif;
+    color:rgb(222, 48, 48);
+}
+
+#section_centro{
+    background-color: aliceblue;
+    padding: 15px;
+    border-radius: 10px;
+    width: 350px;
+    margin: auto;
+    text-align: center;
+    
+    
+}
+
+.rodape {
+    text-align: center;
+    margin-top: 8px;
+}
+
+img {
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+}
